@@ -1,0 +1,10 @@
+scikit-learn==1.5.2
+streamlit==1.39.0
+uvicorn==0.31.0
+prophet==1.1.5
+matplotlib==3.9.2
+numpy==1.23.0
+requests==2.32.3
+fastapi
+plotly
+lightgbm

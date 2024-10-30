@@ -1,0 +1,5 @@
+1. API link
+https://at2-ml-as-a-service-api.onrender.com/docs
+
+2. Streamlit App Link
+https://at2-ml-as-a-service-app.onrender.com/
