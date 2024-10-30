@@ -9,6 +9,8 @@ The project develops two machine learning models for an American retailer with 1
 1. Predictive Model: To predict the sales revenue for a specific item in a particular store on a given date.
 2. Forecasting Model: To forecast the total sales revenue across all stores and items for the next 7 days.
 
+Each shop sells items from 3 different categories: hobbies, foods and household.
+
 ### You can access the deployed application at: 
 
 [Machine Learning As A Service API](https://machine-learning-as-a-service-api.onrender.com/docs)
