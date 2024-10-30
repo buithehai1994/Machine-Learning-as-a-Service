@@ -20,7 +20,7 @@ Each shop sells items from 3 different categories: hobbies, foods and household.
 
 ## Acknowledgments
 
-The Dataset is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School
+The Content of the project is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School
 
 ## Project Organization
 
