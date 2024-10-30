@@ -17,6 +17,11 @@ Each shop sells items from 3 different categories: hobbies, foods and household.
 
 [Machine Learning As A Service Streamlit](https://machine-learning-as-a-service-streamlit.onrender.com/)
 
+
+## Acknowledgments
+
+The Dataset is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School
+
 ## Project Organization
 
 ```
@@ -115,8 +120,3 @@ Machine-Learning-as-a-Service/
     ├── requirements.txt          # Python dependencies list (recently updated)
     └── setup.cfg                 # Configuration for code quality tools like flake8
 
-
-
-## Acknowledgments
-
-Dataset is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School
