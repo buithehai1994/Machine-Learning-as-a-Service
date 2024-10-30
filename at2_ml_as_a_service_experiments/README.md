@@ -10,10 +10,6 @@ A short description of the project.
 
 ```
 at2_ml_as_a_service/
-├── data/                         <- Directory for datasets.
-│   └── processed/                <- Folder for processed data.
-│       └── text.txt              <- Processed data file (now deleted).
-│
 ├── docs/                         <- Documentation files (e.g., for mkdocs).
 │
 ├── models/                       <- Directory for storing trained models.
