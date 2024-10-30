@@ -4,7 +4,11 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A short description of the project.
+The project develops two machine learning models for an American retailer with 10 stores across California, Texas, and Wisconsin, including:
+
+1. Predictive Model: To predict the sales revenue for a specific item in a particular store on a given date.
+2. Forecasting Model: To forecast the total sales revenue across all stores and items for the next 7 days.
+
 ### You can access the deployed application at: 
 
 [Machine Learning As A Service API](https://machine-learning-as-a-service-api.onrender.com/docs)
