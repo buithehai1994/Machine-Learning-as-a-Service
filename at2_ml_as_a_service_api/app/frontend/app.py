@@ -30,7 +30,7 @@ selected_tab = st.sidebar.radio("Select a Tab",
                                   "About"])
 
 # API Base URL
-base_url = "https://at2-ml-as-a-service-api-update-8ac8.onrender.com"
+base_url = "https://machine-learning-as-a-service-api.onrender.com/"
 
 # --- API Health Check Tab ---
 if selected_tab == "API Health Check":
