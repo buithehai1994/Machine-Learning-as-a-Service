@@ -2,7 +2,7 @@
 FROM python:3.9-slim
 
 # Set the working directory inside the container
-WORKDIR /app
+WORKDIR at2_ml_as_a_service_api/app
 
 # Copy the requirements.txt from the root of the project to the working directory
 COPY requirements.txt ./  
