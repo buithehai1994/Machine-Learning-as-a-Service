@@ -161,7 +161,7 @@ async def read_root():
                 "output_format": {"prediction": 19.72}
             }
         },
-        "github_repo": "https://github.com/buithehaiuts/at2_ml_as_a_service_api"
+        "github_repo": "https://github.com/buithehai1994/at2_ml_as_a_service_api"
     }
     return project_info
 
