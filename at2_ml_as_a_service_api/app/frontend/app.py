@@ -278,7 +278,7 @@ elif selected_tab == "About":
 # Footer 
 st.header("Footer")
 st.markdown(""" 
-For more information, visit the [GitHub Repository](https://github.com/buithehaiuts/at2_ml_as_a_service_api).
+For more information, visit the [GitHub Repository](https://github.com/buithehai1994/Machine-Learning-as-a-Service).
 Contact: thehai.bui@student.uts.edu.au
 """)
 
