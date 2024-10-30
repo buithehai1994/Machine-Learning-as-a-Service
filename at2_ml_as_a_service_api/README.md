@@ -9,7 +9,7 @@ A short description of the project.
 ## Project Organization
 
 ```
-project-root/
+at2_ml_as_a_service_api/
 ├── app/                      # Main application directory
 │
 ├── backend/                  # Backend services
