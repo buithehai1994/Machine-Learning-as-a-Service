@@ -8,7 +8,7 @@ A short description of the project.
 ## Deployment
 You can access the deployed application at: 
 
-[Machine Learning As A Service API](https://machine-learning-as-a-service-api.onrender.com/)
+[Machine Learning As A Service API](https://machine-learning-as-a-service-api.onrender.com/docs)
 
 ## Project Organization
 
