@@ -279,7 +279,7 @@ elif selected_tab == "About":
 st.header("Footer")
 st.markdown(""" 
 For more information, visit the [GitHub Repository](https://github.com/buithehai1994/Machine-Learning-as-a-Service).
-Contact: thehai.bui@student.uts.edu.au
+Contact: haibt0206@gmail.com
 """)
 
 # --- Instructions and Documentation ---
