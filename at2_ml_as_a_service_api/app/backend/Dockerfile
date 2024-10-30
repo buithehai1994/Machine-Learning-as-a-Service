@@ -11,7 +11,7 @@ COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the entire app directory inside the app folder
-COPY at2_ml_as_a_service_api/app ./  # Adjusted to avoid nesting
+COPY at2_ml_as_a_service_api/app ./app  # Adjusted to avoid nesting
 
 # Expose the port the app runs on
 EXPOSE 8000
