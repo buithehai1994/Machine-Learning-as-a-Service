@@ -64,7 +64,6 @@ Machine-Learning-as-a-Service/
 │
 │   ├── references/               # Resource documents like data dictionaries
 │
-│   ├── reports/                  # Reports, such as analysis results or visualizations
 │
 │   ├── src/                      # Source code for data processing and modeling
 │   │   └── preparation.py        # Data preparation script
