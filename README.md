@@ -28,22 +28,15 @@ The Content of the project is from the **Master of Data Science and Innovation**
 Machine-Learning-as-a-Service/
 ├── at2_ml_as_a_service_api/
 │   ├── app/                      # Main application directory
-│
-│   ├── backend/                  # Backend services
-│   │   ├── Dockerfile            # Dockerfile for backend
-│   │   ├── api.py                # API definitions
-│   │   └── model.pkl             # Saved model in PKL format
-│
-│   ├── frontend/                 # Frontend services
-│   │   ├── app.py                # Streamlit application
-│   │   └── Dockerfile            # Dockerfile for frontend
-│
-│   ├── data/                     # Directory for datasets
-│   │   └── processed/            # Folder for processed data
-│   │       └── text.txt          # Processed data file
-│
-│   ├── docs/                     # Documentation files
-│
+│   │   ├── backend/                  # Backend services
+│   │   │    ├── Dockerfile            # Dockerfile for backend
+│   │   │    ├── api.py                # API definitions
+│   │   │    └── model.pkl             # Saved model in PKL format
+│   │   │
+│   │   ├── frontend/                 # Frontend services
+│   │        ├── app.py                # Streamlit application
+│   │        └── Dockerfile            # Dockerfile for frontend
+│   │
 │   ├── models/                   # Directory for storing trained models
 │   │   ├── forecasting/          # Models related to forecasting
 │   │   │   ├── prophet.pkl       # Trained Prophet model
